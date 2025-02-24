@@ -1,0 +1,4 @@
+sample_name,treatment_type,treatment_dose,batch,age_weeks,sex
+sample1,control,0,batch1,8,M
+sample2,drug1,10,batch1,7,F
+sample3,drug1,20,batch1,8,F
